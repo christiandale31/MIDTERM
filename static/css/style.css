@@ -1,0 +1,23 @@
+.form-group {
+    padding: 10px; 
+    display: block; 
+    width: 200px; 
+    background-color: #7fffd4; 
+    border-style: solid;
+}
+.input-text {
+    width: 95%; 
+    margin-bottom: 10px;
+} 
+.input-color {
+    width: 100%; 
+    margin-bottom: 10px;
+}
+.btn-block {
+    background-color: #adff2f; 
+    width: 100%; 
+    margin-bottom: 10px;
+}
+.btn-block:hover {
+    background-color: #8cd026;
+}
